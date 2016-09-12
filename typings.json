@@ -1,0 +1,15 @@
+{
+  "globalDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "immutable": "registry:dt/immutable#3.8.1+20160608070634",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353",
+    "power-assert": "registry:dt/power-assert#0.0.0+20160316155526",
+    "react": "registry:dt/react#0.14.0+20160829191040",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-thunk": "registry:dt/redux-thunk#2.1.0+20160703120921"
+  },
+  "globalDevDependencies": {
+    "assert": "registry:dt/assert#0.0.0+20160317120654"
+  }
+}
